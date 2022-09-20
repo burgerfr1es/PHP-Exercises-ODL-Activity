@@ -1,4 +1,6 @@
 <?php
+    echo "Andre Evan F. Tiamzon\n";
+    echo "CIT17 | CITCS INTL\n\n";
     echo "PHP excercise 1\n";
     echo "Twinkle, Twinkle little star. \n";
     $twinkle = "Twinkle";
